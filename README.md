@@ -7,6 +7,10 @@
 
 <br />
 
+![currency](https://github.com/user-attachments/assets/0f060b59-8fa2-4178-9cf2-66458618cb29)
+
+<br />
+
 ### 작업기간
 2025/06, 1주
 <br /><br />
