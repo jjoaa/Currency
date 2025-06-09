@@ -63,5 +63,15 @@ Currency/
 ```
 <br /><br />
 
+## 5. API 정보 (API Reference)
+https://frankfurter.dev/
 
+<br /><br />
+
+## 6. 추후 계획
+- 환율 자동 새로고침 기능
+- 환율 변화 추이를 시각화
+- 다국어 지원
+
+<br /><br />
 
