@@ -1,0 +1,60 @@
+C:\Users\KOSTA\Desktop\currency\currency\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\KOSTA\Desktop\currency\currency\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\KOSTA\Desktop\currency\currency\obj\Debug\net8.0-windows\currency_MarkupCompile.cache
+C:\Users\KOSTA\Desktop\currency\currency\obj\Debug\net8.0-windows\currency_MarkupCompile.lref
+C:\Users\KOSTA\Desktop\currency\currency\bin\Debug\net8.0-windows\currency.exe
+C:\Users\KOSTA\Desktop\currency\currency\bin\Debug\net8.0-windows\currency.deps.json
+C:\Users\KOSTA\Desktop\currency\currency\bin\Debug\net8.0-windows\currency.runtimeconfig.json
+C:\Users\KOSTA\Desktop\currency\currency\bin\Debug\net8.0-windows\currency.dll
+C:\Users\KOSTA\Desktop\currency\currency\bin\Debug\net8.0-windows\currency.pdb
+C:\Users\KOSTA\Desktop\currency\currency\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\KOSTA\Desktop\currency\currency\obj\Debug\net8.0-windows\currency.g.resources
+C:\Users\KOSTA\Desktop\currency\currency\obj\Debug\net8.0-windows\currency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOSTA\Desktop\currency\currency\obj\Debug\net8.0-windows\currency.AssemblyInfoInputs.cache
+C:\Users\KOSTA\Desktop\currency\currency\obj\Debug\net8.0-windows\currency.AssemblyInfo.cs
+C:\Users\KOSTA\Desktop\currency\currency\obj\Debug\net8.0-windows\currency.csproj.CoreCompileInputs.cache
+C:\Users\KOSTA\Desktop\currency\currency\obj\Debug\net8.0-windows\currency.dll
+C:\Users\KOSTA\Desktop\currency\currency\obj\Debug\net8.0-windows\refint\currency.dll
+C:\Users\KOSTA\Desktop\currency\currency\obj\Debug\net8.0-windows\currency.pdb
+C:\Users\KOSTA\Desktop\currency\currency\obj\Debug\net8.0-windows\currency.genruntimeconfig.cache
+C:\Users\KOSTA\Desktop\currency\currency\obj\Debug\net8.0-windows\ref\currency.dll
+C:\Users\KOSTA\Desktop\currency\currency\obj\Debug\net8.0-windows\Resources\Styles.baml
+C:\Users\KOSTA\Desktop\currency\currency\obj\Debug\net8.0-windows\App.baml
+C:\Users\KOSTA\Desktop\currency\currency\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\KOSTA\Desktop\currency\currency\obj\Debug\net8.0-windows\currency.csproj.AssemblyReference.cache
+C:\Users\KOSTA\Desktop\currency\currency\bin\Debug\net8.0-windows\CommonWin32.dll
+C:\Users\KOSTA\Desktop\currency\currency\bin\Debug\net8.0-windows\ModernWPF.dll
+C:\Users\KOSTA\Desktop\currency\currency\bin\Debug\net8.0-windows\ja\ModernWPF.resources.dll
+C:\Users\KOSTA\Desktop\currency\currency\bin\Debug\net8.0-windows\zh-Hans\ModernWPF.resources.dll
+C:\Users\KOSTA\Desktop\currency\currency\bin\Debug\net8.0-windows\zh-Hant\ModernWPF.resources.dll
+C:\Users\KOSTA\Desktop\currency\currency\obj\Debug\net8.0-windows\currency.csproj.Up2Date
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\obj\Debug\net8.0-windows\currency.csproj.AssemblyReference.cache
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\obj\Debug\net8.0-windows\Resources\Styles.baml
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\obj\Debug\net8.0-windows\currency_MarkupCompile.cache
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\obj\Debug\net8.0-windows\currency_MarkupCompile.lref
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\obj\Debug\net8.0-windows\currency.dll
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\obj\Debug\net8.0-windows\refint\currency.dll
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\obj\Debug\net8.0-windows\currency.pdb
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\bin\Debug\net8.0-windows\currency.exe
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\bin\Debug\net8.0-windows\currency.deps.json
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\bin\Debug\net8.0-windows\currency.runtimeconfig.json
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\bin\Debug\net8.0-windows\currency.dll
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\bin\Debug\net8.0-windows\currency.pdb
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\bin\Debug\net8.0-windows\CommonWin32.dll
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\bin\Debug\net8.0-windows\ModernWPF.dll
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\bin\Debug\net8.0-windows\ja\ModernWPF.resources.dll
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\bin\Debug\net8.0-windows\zh-Hans\ModernWPF.resources.dll
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\bin\Debug\net8.0-windows\zh-Hant\ModernWPF.resources.dll
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\obj\Debug\net8.0-windows\App.baml
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\obj\Debug\net8.0-windows\currency.g.resources
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\obj\Debug\net8.0-windows\currency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\obj\Debug\net8.0-windows\currency.AssemblyInfoInputs.cache
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\obj\Debug\net8.0-windows\currency.AssemblyInfo.cs
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\obj\Debug\net8.0-windows\currency.csproj.CoreCompileInputs.cache
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\obj\Debug\net8.0-windows\currency.csproj.Up2Date
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\obj\Debug\net8.0-windows\currency.genruntimeconfig.cache
+C:\Users\KOSTA\Desktop\currency\currency - 복사본\obj\Debug\net8.0-windows\ref\currency.dll

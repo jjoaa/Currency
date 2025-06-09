@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KOSTA\\Desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94336F42-911F-4D34-89A6-15067D5CBF6E}|currency.csproj|c:\\users\\kosta\\desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\currency.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94336F42-911F-4D34-89A6-15067D5CBF6E}|currency.csproj|solutionrelative:currency.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94336F42-911F-4D34-89A6-15067D5CBF6E}|currency.csproj|c:\\users\\kosta\\desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94336F42-911F-4D34-89A6-15067D5CBF6E}|currency.csproj|solutionrelative:models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94336F42-911F-4D34-89A6-15067D5CBF6E}|currency.csproj|c:\\users\\kosta\\desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{94336F42-911F-4D34-89A6-15067D5CBF6E}|currency.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94336F42-911F-4D34-89A6-15067D5CBF6E}|currency.csproj|c:\\users\\kosta\\desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{94336F42-911F-4D34-89A6-15067D5CBF6E}|currency.csproj|solutionrelative:resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94336F42-911F-4D34-89A6-15067D5CBF6E}|currency.csproj|c:\\users\\kosta\\desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\services\\currencyapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94336F42-911F-4D34-89A6-15067D5CBF6E}|currency.csproj|solutionrelative:services\\currencyapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94336F42-911F-4D34-89A6-15067D5CBF6E}|currency.csproj|c:\\users\\kosta\\desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94336F42-911F-4D34-89A6-15067D5CBF6E}|currency.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94336F42-911F-4D34-89A6-15067D5CBF6E}|currency.csproj|c:\\users\\kosta\\desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94336F42-911F-4D34-89A6-15067D5CBF6E}|currency.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94336F42-911F-4D34-89A6-15067D5CBF6E}|currency.csproj|c:\\users\\kosta\\desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{94336F42-911F-4D34-89A6-15067D5CBF6E}|currency.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94336F42-911F-4D34-89A6-15067D5CBF6E}|currency.csproj|c:\\users\\kosta\\desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94336F42-911F-4D34-89A6-15067D5CBF6E}|currency.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94336F42-911F-4D34-89A6-15067D5CBF6E}|currency.csproj|c:\\users\\kosta\\desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94336F42-911F-4D34-89A6-15067D5CBF6E}|currency.csproj|solutionrelative:helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KOSTA\\AppData\\Local\\Temp\\.vsdbgsrc\\b8b74ed96cb310e7521b08fc2fd291b3e429a4b509c86c75e9f5ab857cffbff6\\PropertyPathWorker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94336F42-911F-4D34-89A6-15067D5CBF6E}|currency.csproj|c:\\users\\kosta\\desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\helpers\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94336F42-911F-4D34-89A6-15067D5CBF6E}|currency.csproj|solutionrelative:helpers\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94336F42-911F-4D34-89A6-15067D5CBF6E}|currency.csproj|c:\\users\\kosta\\desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94336F42-911F-4D34-89A6-15067D5CBF6E}|currency.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KOSTA\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KOSTA\\Desktop\\currency\\currency\\Models\\ExchangeResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KOSTA\\Desktop\\currency\\currency\\Models\\LiveRateResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KOSTA\\Desktop\\currency\\currency\\Models\\ExchangeRateResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T04:48:06.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\Resources\\Styles.xaml",
+              "RelativeDocumentMoniker": "Resources\\Styles.xaml",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\Resources\\Styles.xaml",
+              "RelativeToolTip": "Resources\\Styles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T11:03:05.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PropertyPathWorker.cs",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\AppData\\Local\\Temp\\.vsdbgsrc\\b8b74ed96cb310e7521b08fc2fd291b3e429a4b509c86c75e9f5ab857cffbff6\\PropertyPathWorker.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b8b74ed96cb310e7521b08fc2fd291b3e429a4b509c86c75e9f5ab857cffbff6\\PropertyPathWorker.cs",
+              "ToolTip": "C:\\Users\\KOSTA\\AppData\\Local\\Temp\\.vsdbgsrc\\b8b74ed96cb310e7521b08fc2fd291b3e429a4b509c86c75e9f5ab857cffbff6\\PropertyPathWorker.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b8b74ed96cb310e7521b08fc2fd291b3e429a4b509c86c75e9f5ab857cffbff6\\PropertyPathWorker.cs",
+              "ViewState": "AgIAAJwEAAAAAAAAAAAgwK0EAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T10:31:46.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExchangeResponse.cs",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\currency\\currency\\Models\\ExchangeResponse.cs",
+              "RelativeDocumentMoniker": "..\\currency\\Models\\ExchangeResponse.cs",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\currency\\currency\\Models\\ExchangeResponse.cs",
+              "RelativeToolTip": "..\\currency\\Models\\ExchangeResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:38:37.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LiveRateResponse.cs",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\currency\\currency\\Models\\LiveRateResponse.cs",
+              "RelativeDocumentMoniker": "..\\currency\\Models\\LiveRateResponse.cs",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\currency\\currency\\Models\\LiveRateResponse.cs",
+              "RelativeToolTip": "..\\currency\\Models\\LiveRateResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T01:07:37.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:35:57.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExchangeRateResponse.cs",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\currency\\currency\\Models\\ExchangeRateResponse.cs",
+              "RelativeDocumentMoniker": "..\\currency\\Models\\ExchangeRateResponse.cs",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\currency\\currency\\Models\\ExchangeRateResponse.cs",
+              "RelativeToolTip": "..\\currency\\Models\\ExchangeRateResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:22:37.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-04T11:03:16.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\KOSTA\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:01:45.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\Helpers\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Helpers\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\Helpers\\RelayCommand.cs",
+              "RelativeToolTip": "Helpers\\RelayCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:39:50.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:33:55.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ObservableObject.cs",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\Helpers\\ObservableObject.cs",
+              "RelativeDocumentMoniker": "Helpers\\ObservableObject.cs",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\Helpers\\ObservableObject.cs",
+              "RelativeToolTip": "Helpers\\ObservableObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:31:47.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CurrencyApiService.cs",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\Services\\CurrencyApiService.cs",
+              "RelativeDocumentMoniker": "Services\\CurrencyApiService.cs",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\Services\\CurrencyApiService.cs",
+              "RelativeToolTip": "Services\\CurrencyApiService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:31:37.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-04T10:31:04.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAmwHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:30:29.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\Models\\Currency.cs",
+              "RelativeDocumentMoniker": "Models\\Currency.cs",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\Models\\Currency.cs",
+              "RelativeToolTip": "Models\\Currency.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:30:06.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "currency.csproj",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\currency.csproj",
+              "RelativeDocumentMoniker": "currency.csproj",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\currency\\currency - \uBCF5\uC0AC\uBCF8\\currency.csproj",
+              "RelativeToolTip": "currency.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-04T10:29:11.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
